@@ -1,0 +1,13 @@
+
+Functions available:
+
+* append - Appends items to the list
+* count - Counts the number of times an item occurs in a list
+* extend - Adds items from another collection
+* index - Finds the offset of a string
+* insert - Inserts an item into the list
+* pop - Removes an item at an offset from the list and returns it
+* remove - Removes a particular item from a list
+* reverse - Reverses the list
+* sort - Sorts the list
+
